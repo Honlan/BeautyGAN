@@ -10,7 +10,9 @@
 
 ## 使用方法
 
-提供了训练好的模型
+提供了训练好的模型，[https://pan.baidu.com/s/1wngvgT0qzcKJ5LfLMO7m8A](https://pan.baidu.com/s/1wngvgT0qzcKJ5LfLMO7m8A)，7lip
+
+![](result.jpg)
 
 - Python3.6
 - TensorFlow1.9
