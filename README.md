@@ -17,7 +17,10 @@ BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversaria
 - Python3.6
 - TensorFlow1.9
 
-下载训练好的模型，[https://pan.baidu.com/s/1wngvgT0qzcKJ5LfLMO7m8A](https://pan.baidu.com/s/1wngvgT0qzcKJ5LfLMO7m8A)，7lip
+下载训练好的模型
+
+- [https://pan.baidu.com/s/1wngvgT0qzcKJ5LfLMO7m8A](https://pan.baidu.com/s/1wngvgT0qzcKJ5LfLMO7m8A)，7lip
+- [https://drive.google.com/drive/folders/1pgVqnF2-rnOxcUQ3SO4JwHUFTdiSe5t9](https://drive.google.com/drive/folders/1pgVqnF2-rnOxcUQ3SO4JwHUFTdiSe5t9)
 
 新建文件夹`model`，将模型文件放于其中
 
